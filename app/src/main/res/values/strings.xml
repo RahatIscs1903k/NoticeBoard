@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NoticeBoardApp</string>
+    <string name="notice">Объявления</string>
+    <string name="notice_my">Мои объявления</string>
+    <string name="notice_car">Машины</string>
+    <string name="notice_pc">Компьютеры</string>
+    <string name="notice_smartphone">Смартфоны</string>
+    <string name="notice_dm">Бытовая техника</string>
+    <string name="notice_account">Аккаунт</string>
+    <string name="notice_sign_up">Регистрация</string>
+    <string name="notice_sing_in">Вход</string>
+    <string name="notice_sing_out">Выход</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

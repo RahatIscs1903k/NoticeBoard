@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/notice">
+        <menu>
+
+            <item
+                android:title="@string/notice_my"
+                android:id="@+id/notice_my"
+                />
+            <item
+                android:title="@string/notice_car"
+                android:id="@+id/notice_car"
+                /> <item
+            android:title="@string/notice_dm"
+            android:id="@+id/notice_dm"
+            /> <item
+            android:title="@string/notice_pc"
+            android:id="@+id/notice_pc"
+            />
+        </menu>
+    </item>
+
+    <item android:title="@string/notice_account">
+        <menu>
+
+
+            <item
+                android:title="@string/notice_sign_up"
+                android:id="@+id/notice_sign_up"
+                /> <item
+            android:title="@string/notice_sing_in"
+            android:id="@+id/notice_sing_in"
+            /> <item
+            android:title="@string/notice_sing_out"
+            android:id="@+id/notice_sing_out"
+            />
+        </menu>
+    </item>
+</menu>
