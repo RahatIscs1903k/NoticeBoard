@@ -12,4 +12,19 @@
     <string name="notice_sing_out">Выход</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+
+    <!-- Sign Dialog -->
+    <string name="email_hint">Email</string>
+    <string name="email_reset_password_was_sent">Reset EMail was sent</string>
+    <string name="dialog_reset_email_message">Для восстановления пароля укажите ваш Email adress</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_action">Зарегистрироваться</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="rakhat_ye_1fit_app">rakhat.ye@1fit.app</string>
+    <string name="sign_up_error">Не удалось зарегестрироваться</string>
+    <string name="sign_in_error">Не удалось зайти</string>
+    <string name="send_verification_error">Не удалось отправить email для подтвержения!</string>
+    <string name="send_verification_done">На ваш почту была отправлена ссылка для подтверждения вашего аккаунта!</string>
+
 </resources>
