@@ -12,6 +12,9 @@
     <string name="notice_sing_out">Выход</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="not_reg">Войдите или зарегиструйтесь!</string>
+
+
 
     <!-- Sign Dialog -->
     <string name="email_hint">Email</string>
